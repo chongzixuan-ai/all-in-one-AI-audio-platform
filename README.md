@@ -140,7 +140,7 @@ This project was built in 2023 using the following technologies.
 - ![Bun][Bun]
 - ![shadcn/ui][shadcn/ui]
 
-See [package.json](https://github.com/seanoliver/audioflare/blob/main/package.json) for a full list of dependencies.
+See [package.json](https://github.com/chongzixuan-ai/all-in-one-AI-audio-platform) for a full list of dependencies.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,21 +201,10 @@ This is a great project for learning Cloudflare, AI Workers, and simple Next.js 
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/seanoliver/audioflare/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/chongzixuan-ai/all-in-one-AI-audio-platform) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-
-## Contact
-
-Your Name - [@SeanOliver](https://twitter.com/SeanOliver) - helloseanoliver@gmail.com
-
-Project Link: [https://github.com/seanoliver/audioflare](https://github.com/seanoliver/audioflare)
-
-Live Demo: [https://audioflare.seanoliver.dev/](https://audioflare.seanoliver.dev/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- TECHNOLOGY BADGES -->
 
